@@ -6,12 +6,12 @@ I have grouped these into sections.
 
 ### Python
 
-https://github.com/TorbenJakobsen/decimaldate
+- https://github.com/TorbenJakobsen/decimaldate
 
 ### Proxmox
 
-https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor
-https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container
+- https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor
+- https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container
 
 ### SAP
 
