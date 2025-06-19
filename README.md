@@ -10,6 +10,7 @@ https://github.com/TorbenJakobsen/decimaldate
 
 ### Proxmox
 
+https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor
 
 ### Stats
 
