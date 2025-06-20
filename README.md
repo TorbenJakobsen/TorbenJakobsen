@@ -15,9 +15,6 @@ I have grouped these into sections.
 
 ### SAP
 
-- [Run SAP as a Container](https://github.com/TorbenJakobsen/run_sap_as_a_container)<br/>
-  Uses a Proxmox LXC container to run Docker and a SAP server as a Docker container.
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=run_sap_as_a_container)](https://github.com/TorbenJakobsen/run_sap_as_a_container)
 
 ### Stats
