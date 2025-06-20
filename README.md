@@ -6,8 +6,7 @@ I have grouped these into sections.
 
 ### Python
 
-- [decimaldate](https://github.com/TorbenJakobsen/decimaldate)<br/>
-  A python module for handling decimal dates on th form ``yyyymmdd``.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=decimaldate)](https://github.com/TorbenJakobsen/decimaldate)
 
 ### Proxmox
 
