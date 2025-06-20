@@ -21,6 +21,6 @@ I have grouped these into sections.
 
 ### Stats
 
-![Torben Jakobsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorbenJakobsen&show_icons=true)<br/>
-(https://github-readme-stats.vercel.app)
+[![Torben's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorbenJakobsen)](https://github.com/anuraghazra/github-readme-stats)
+
 
