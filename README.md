@@ -6,17 +6,17 @@ I have grouped these into sections.
 
 ### Python
 
-- https://github.com/TorbenJakobsen/decimaldate
+- [decimaldate](https://github.com/TorbenJakobsen/decimaldate)
 
 ### Proxmox
 
-- https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor
-- https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container
+- [setup_proxmox_as_hypervisor](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
+- [run-docker-in-proxmox-lxc-container](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
 
 ### SAP
 
 - [Run SAP as a Ccontainer](https://github.com/TorbenJakobsen/run_sap_as_a_container)<br/>
-  Uses a Proxmox LXC containner to run Docker and a SAP server as a Docker container.
+  Uses a Proxmox LXC container to run Docker and a SAP server as a Docker container.
 
 ### Stats
 
