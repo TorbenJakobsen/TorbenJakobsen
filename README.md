@@ -6,12 +6,13 @@ I have grouped these into sections.
 
 ### Python
 
-- [decimaldate](https://github.com/TorbenJakobsen/decimaldate)
+- [decimaldate](https://github.com/TorbenJakobsen/decimaldate)<br/>
+  A python module for handling decimal dates on th form ``yyyymmdd``.
 
 ### Proxmox
 
-- [setup_proxmox_as_hypervisor](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
-- [run-docker-in-proxmox-lxc-container](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
+- [Setup Proxmox as Hypervisor](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
+- [Run Docker in Proxmox LXC Container](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
 
 ### SAP
 
