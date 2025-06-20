@@ -13,8 +13,8 @@ I have grouped these into sections.
 
 ### Proxmox
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=matrix_digital_rain)](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=matrix_digital_rain)](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=setup_proxmox_as_hypervisor)](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=run-docker-in-proxmox-lxc-container)](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
 
 ### SAP
 
