@@ -13,8 +13,8 @@ I have grouped these into sections.
 
 ### Proxmox
 
-- [Setup Proxmox as Hypervisor](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
-- [Run Docker in Proxmox LXC Container](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=matrix_digital_rain)](https://github.com/TorbenJakobsen/setup_proxmox_as_hypervisor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorbenJakobsen&repo=matrix_digital_rain)](https://github.com/TorbenJakobsen/run-docker-in-proxmox-lxc-container)
 
 ### SAP
 
