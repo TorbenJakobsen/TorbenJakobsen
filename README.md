@@ -2,7 +2,7 @@
 
 I am working on many personal projects that has my interest.
 
-I have grouped these into sections.
+I have grouped these projects into sections.
 
 ### Python
 
